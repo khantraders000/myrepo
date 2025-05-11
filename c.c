@@ -5,6 +5,9 @@ void bubble(){
 int adding(int a , int b){
     return a + b;
 }
+void mergesort(){
+    //
+}
 main(){
     printf("my name is ayan khan \n");
     printf("only testing \n");
