@@ -2,9 +2,13 @@
 void bubble(){
     //
 }
+int adding(int a , int b){
+    return a + b;
+}
 main(){
     printf("my name is ayan khan \n");
-    printf("only testing");
+    printf("only testing \n");
+    adding(4,5);
 
 
     return 0;
