@@ -8,6 +8,11 @@ int adding(int a , int b){
 void mergesort(){
     //
 }
+
+void insertion(){
+    // 
+}
+
 main(){
     printf("my name is ayan khan \n");
     printf("only testing \n");
